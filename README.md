@@ -11,7 +11,7 @@
 const Geir Julio = {
   nome: "Geir Julio",
   Area: "DESENVOLVIMENTO WEB", "DESENVOLVIMENTO SISTEMA"
-  Linguagens: ["Jupyter", "JavaScript", "Python"],
+  Linguagens: ["Jupyter", "JavaScript", "Python", "React"],
 };
 ```
 
